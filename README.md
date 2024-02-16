@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20views&color=0e75b6&style=flat" alt="jet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chris-de-sypher" alt="chris-de-sypher" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett0007" alt="jet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@chris-de-sypher" target="blank"><img src="https://img.shields.io/twitter/follow/@chris-de-sypher?logo=twitter&style=for-the-badge" alt="@chris-de-sypher" /></a> </p>
 
