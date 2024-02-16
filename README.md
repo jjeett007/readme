@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm JET</h1>
 <p align="center">A passionate fullstack developer</h3>
 
-<img align = "right" alt="javascript gif_logo" width="650" src="https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20views&color=0e75b6&style=flat" alt="jet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeett007&label=Profile%20views&color=0e75b6&style=flat" alt="jet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett0007" alt="jet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett007" alt="jet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@chris-de-sypher" target="blank"><img src="https://img.shields.io/twitter/follow/@chris-de-sypher?logo=twitter&style=for-the-badge" alt="@chris-de-sypher" /></a> </p>
 
