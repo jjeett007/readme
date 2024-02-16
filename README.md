@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Christian Osuji (Chris-de-sypher)</h1>
-<p align="center">A passionate fullstack developer, a community mentor, a google developer student lead. My goal is to keep learning and also make coding sweet for beginners by providing them with the neccessary assisatnce needed in any area they find themselves confuse.</h3>
+<h1 align="center">Hello 👋, I'm JET</h1>
+<p align="center">A passionate fullstack developer</h3>
 
 <img align = "right" alt="javascript gif_logo" width="650" src="https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-de-sypher&label=Profile%20views&color=0e75b6&style=flat" alt="chris-de-sypher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20views&color=0e75b6&style=flat" alt="jet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chris-de-sypher" alt="chris-de-sypher" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Html, css, Javascript, nodejs, python, react, jquery, firebase, msql, express, xml, git, php**
 
-- 📫 How to reach me **christainsilvester700@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact about me **I crave to learn something new 😂**
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/chris-de-sypher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/chris-de-sypher" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/jet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jet" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/chrisdesypher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chrisdesypher" height="30" width="40" /></a>
-<a href="https://twitter.com/chris-de-sypher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chris-de-sypher" height="30" width="40" /></a>
+<a href="https://twitter.com/jet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-silvester-a049a8230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-silvester-a049a8230/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19220541/christian-silvester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19220541/christian-silvester" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/christiansilvester700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/christiansilvester700" height="30" width="40" /></a>
@@ -43,7 +43,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/chrisde"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/chrisde" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-de-sypher&show_icons=true&locale=en&layout=compact" alt="chris-de-sypher" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jet&show_icons=true&locale=en&layout=compact" alt="chris-de-sypher" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-de-sypher&show_icons=true&locale=en" alt="chris-de-sypher" /></p>
 
